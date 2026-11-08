@@ -1,0 +1,730 @@
+[
+  {
+    "id": 1,
+    "name": "National Hospital of Sri Lanka (NHSL) – Outpatient Department",
+    "city": "Borella / Colombo 10",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 2,
+    "name": "Asiri Central Hospital",
+    "city": "Norris Canal / Colombo 10",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 3,
+    "name": "Colombo South Teaching Hospital (Kalubowila)",
+    "city": "Kalubowila",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 4,
+    "name": "Lady Ridgeway Hospital for Children (LRH)",
+    "city": "Borella / Colombo 08",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 5,
+    "name": "Castle Street Hospital for Women",
+    "city": "Borella / Colombo 08",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 6,
+    "name": "University of Colombo – College House (Senate Building)",
+    "city": "Cinnamon Gardens / Colombo 03",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 7,
+    "name": "University of Colombo – Faculty of Science Complex",
+    "city": "Cinnamon Gardens / Colombo 07",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 8,
+    "name": "University of Colombo – Main Library",
+    "city": "Cinnamon Gardens / Colombo 07",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 9,
+    "name": "SLIIT Metro Campus – Colombo City",
+    "city": "Kollupitiya / Colombo 03",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 10,
+    "name": "Bank of Ceylon (BOC) Head Office – BOC Tower",
+    "city": "Colombo Fort / Colombo 01",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 11,
+    "name": "People's Bank Head Office",
+    "city": "Slave Island / Colombo 02",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 12,
+    "name": "Commercial Bank – Kollupitiya Branch",
+    "city": "Kollupitiya / Colombo 03",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 13,
+    "name": "Sampath Bank – Colombo Fort Branch",
+    "city": "Colombo Fort / Colombo 01",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 14,
+    "name": "Colombo Municipal Council (Town Hall)",
+    "city": "Cinnamon Gardens / Colombo 07",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 15,
+    "name": "Colombo Divisional Secretariat",
+    "city": "Pettah / Colombo 12",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 16,
+    "name": "Department of Immigration & Emigration (Suhurupaya)",
+    "city": "Battaramulla",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 17,
+    "name": "Sethsiripaya Administrative Complex – Stage II",
+    "city": "Battaramulla",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 18,
+    "name": "Supreme Court Complex of Sri Lanka",
+    "city": "Hulftsdorp / Colombo 12",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 19,
+    "name": "Colombo City Centre (CCC)",
+    "city": "Kollupitiya / Colombo 02",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 20,
+    "name": "One Galle Face Mall (Shangri-La Complex)",
+    "city": "Galle Face / Colombo 02",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 21,
+    "name": "Galle Face Green Promenade",
+    "city": "Galle Face / Colombo 03",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 22,
+    "name": "Independence Memorial Hall & Arcade",
+    "city": "Cinnamon Gardens / Colombo 07",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 23,
+    "name": "Viharamahadevi Park",
+    "city": "Cinnamon Gardens / Colombo 07",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 24,
+    "name": "Barefoot Garden Cafe",
+    "city": "Kollupitiya / Colombo 03",
+    "catSlug": "restaurants-cafes",
+    "catName": "Restaurants and Cafes"
+  },
+  {
+    "id": 25,
+    "name": "The Gallery Café (Paradise Road)",
+    "city": "Kollupitiya / Colombo 03",
+    "catSlug": "restaurants-cafes",
+    "catName": "Restaurants and Cafes"
+  },
+  {
+    "id": 26,
+    "name": "Department of Coffee",
+    "city": "Cinnamon Gardens / Colombo 07",
+    "catSlug": "restaurants-cafes",
+    "catName": "Restaurants and Cafes"
+  },
+  {
+    "id": 27,
+    "name": "Java Lounge – Bambalapitiya",
+    "city": "Bambalapitiya / Colombo 04",
+    "catSlug": "restaurants-cafes",
+    "catName": "Restaurants and Cafes"
+  },
+  {
+    "id": 28,
+    "name": "Galle Face Hotel",
+    "city": "Galle Face / Colombo 03",
+    "catSlug": "hotels-accommodation",
+    "catName": "Hotels and Accommodation"
+  },
+  {
+    "id": 29,
+    "name": "Cinnamon Grand Colombo",
+    "city": "Kollupitiya / Colombo 03",
+    "catSlug": "hotels-accommodation",
+    "catName": "Hotels and Accommodation"
+  },
+  {
+    "id": 30,
+    "name": "The Kingsbury Colombo",
+    "city": "Colombo Fort / Colombo 01",
+    "catSlug": "hotels-accommodation",
+    "catName": "Hotels and Accommodation"
+  },
+  {
+    "id": 31,
+    "name": "Shangri-La Colombo",
+    "city": "Galle Face / Colombo 02",
+    "catSlug": "hotels-accommodation",
+    "catName": "Hotels and Accommodation"
+  },
+  {
+    "id": 32,
+    "name": "Nawaloka Hospital Specialist Center",
+    "city": "Slave Island / Colombo 02",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 33,
+    "name": "Apollo Diagnostics Colombo 03",
+    "city": "Kollupitiya",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 34,
+    "name": "National Hospital of Sri Lanka (NHSL) – Main Complex",
+    "city": "Colombo 10",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 35,
+    "name": "Lady Ridgeway Hospital for Children",
+    "city": "Borella / Colombo 08",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 36,
+    "name": "National Eye Hospital",
+    "city": "Colombo 10",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 37,
+    "name": "Sri Jayewardenepura General Hospital",
+    "city": "Kotte",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 38,
+    "name": "Apeksha Hospital Maharagama (National Cancer Institute)",
+    "city": "Maharagama",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 39,
+    "name": "Homagama Base Hospital",
+    "city": "Homagama",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 40,
+    "name": "Seethawaka Base Hospital (Avissawella)",
+    "city": "Avissawella",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 41,
+    "name": "Asiri Surgical Hospital",
+    "city": "Narahenpita / Colombo 05",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 42,
+    "name": "Lanka Hospitals – Main Facility",
+    "city": "Narahenpita / Colombo 05",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 43,
+    "name": "Durdans Hospital – Kollupitiya",
+    "city": "Colombo 03",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 44,
+    "name": "Nawaloka Hospital – Colombo 02",
+    "city": "Colombo 02",
+    "catSlug": "hospitals-healthcare",
+    "catName": "Hospitals and Healthcare"
+  },
+  {
+    "id": 45,
+    "name": "University of Colombo – College House & Main Campus",
+    "city": "Colombo 03",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 46,
+    "name": "University of Colombo – Faculty of Medicine",
+    "city": "Borella / Colombo 08",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 47,
+    "name": "University of Sri Jayewardenepura – Gangodawila Campus",
+    "city": "Nugegoda",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 48,
+    "name": "University of Moratuwa – Katubedda Campus",
+    "city": "Moratuwa",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 49,
+    "name": "Open University of Sri Lanka – Nawala Campus",
+    "city": "Kotte",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 50,
+    "name": "University of Vocational Technology (UNIVOTEC) – Ratmalana",
+    "city": "Ratmalana",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 51,
+    "name": "SLIIT Malabe Campus",
+    "city": "Malabe",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 52,
+    "name": "NSBM Green University – Pitipana Homagama",
+    "city": "Homagama",
+    "catSlug": "universities-education",
+    "catName": "Universities and Education"
+  },
+  {
+    "id": 53,
+    "name": "Bank of Ceylon (BOC) – Head Office & Platinum Branch",
+    "city": "Colombo 01",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 54,
+    "name": "Bank of Ceylon (BOC) – Nugegoda Branch",
+    "city": "Nugegoda",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 55,
+    "name": "Bank of Ceylon (BOC) – Battaramulla Branch",
+    "city": "Battaramulla",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 56,
+    "name": "Bank of Ceylon (BOC) – Maharagama Branch",
+    "city": "Maharagama",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 57,
+    "name": "Bank of Ceylon (BOC) – Moratuwa Branch",
+    "city": "Moratuwa",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 58,
+    "name": "Bank of Ceylon (BOC) – Dehiwala Branch",
+    "city": "Dehiwala",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 59,
+    "name": "Bank of Ceylon (BOC) – Homagama Branch",
+    "city": "Homagama",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 60,
+    "name": "Bank of Ceylon (BOC) – Avissawella Branch",
+    "city": "Avissawella",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 61,
+    "name": "Commercial Bank of Ceylon – Head Office & Foreign Branch",
+    "city": "Colombo 01",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 62,
+    "name": "Commercial Bank of Ceylon – Kollupitiya Branch",
+    "city": "Colombo 03",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 63,
+    "name": "Commercial Bank of Ceylon – Nugegoda Branch",
+    "city": "Nugegoda",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 64,
+    "name": "Commercial Bank of Ceylon – Battaramulla Branch",
+    "city": "Battaramulla",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 65,
+    "name": "Commercial Bank of Ceylon – Mount Lavinia Branch",
+    "city": "Mount Lavinia",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 66,
+    "name": "Commercial Bank of Ceylon – Malabe Branch",
+    "city": "Malabe",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 67,
+    "name": "Sampath Bank – Head Office",
+    "city": "Colombo 02",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 68,
+    "name": "Sampath Bank – Bambalapitiya Super Branch",
+    "city": "Colombo 04",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 69,
+    "name": "Sampath Bank – Nugegoda Super Branch",
+    "city": "Nugegoda",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 70,
+    "name": "Central Bank of Sri Lanka (CBSL) – Headquarters",
+    "city": "Colombo 01",
+    "catSlug": "banks-financial-services",
+    "catName": "Banks and Financial Services"
+  },
+  {
+    "id": 71,
+    "name": "Presidential Secretariat of Sri Lanka",
+    "city": "Colombo 01",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 72,
+    "name": "Prime Minister's Office – Colombo 07",
+    "city": "Colombo 07",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 73,
+    "name": "Department of Immigration and Emigration – \"Suhurupaya\"",
+    "city": "Battaramulla",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 74,
+    "name": "Department of Motor Traffic – Werahera (Licensing Division)",
+    "city": "Boralesgamuwa",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 75,
+    "name": "Inland Revenue Department (IRD) – Head Office",
+    "city": "Colombo 02",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 76,
+    "name": "Sethsiripaya Administrative Complex",
+    "city": "Battaramulla",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 77,
+    "name": "Supreme Court & Superior Courts Complex – Hultsdorf",
+    "city": "Colombo 12",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 78,
+    "name": "Divisional Secretariat – Moratuwa",
+    "city": "Moratuwa",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 79,
+    "name": "Divisional Secretariat – Homagama",
+    "city": "Homagama",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 80,
+    "name": "Divisional Secretariat – Kaduwela",
+    "city": "Kaduwela",
+    "catSlug": "government-offices",
+    "catName": "Government Offices"
+  },
+  {
+    "id": 81,
+    "name": "John Keells Holdings PLC – Corporate Headquarters",
+    "city": "Colombo 02",
+    "catSlug": "corporate-headquarters",
+    "catName": "Corporate Organisations and Headquarters"
+  },
+  {
+    "id": 82,
+    "name": "Hayleys PLC – Head Office",
+    "city": "Colombo 10",
+    "catSlug": "corporate-headquarters",
+    "catName": "Corporate Organisations and Headquarters"
+  },
+  {
+    "id": 83,
+    "name": "Dialog Axiata PLC – Headquarters",
+    "city": "Colombo 02",
+    "catSlug": "corporate-headquarters",
+    "catName": "Corporate Organisations and Headquarters"
+  },
+  {
+    "id": 84,
+    "name": "Sri Lanka Telecom (SLT-MOBITEL) – Telecom HQ",
+    "city": "Colombo 01",
+    "catSlug": "corporate-headquarters",
+    "catName": "Corporate Organisations and Headquarters"
+  },
+  {
+    "id": 85,
+    "name": "One Galle Face Mall",
+    "city": "Colombo 02",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 86,
+    "name": "Majestic City",
+    "city": "Colombo 04",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 87,
+    "name": "Liberty Plaza",
+    "city": "Colombo 03",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 88,
+    "name": "Havelock City Mall",
+    "city": "Colombo 05",
+    "catSlug": "shopping-public-places",
+    "catName": "Shopping and Public Places"
+  },
+  {
+    "id": 89,
+    "name": "Cinnamon Lakeside Colombo",
+    "city": "Colombo 02",
+    "catSlug": "hotels-accommodation",
+    "catName": "Hotels and Accommodation"
+  },
+  {
+    "id": 90,
+    "name": "Mount Lavinia Hotel",
+    "city": "Mount Lavinia",
+    "catSlug": "hotels-accommodation",
+    "catName": "Hotels and Accommodation"
+  },
+  {
+    "id": 91,
+    "name": "Colombo Fort Railway Station",
+    "city": "Colombo 01",
+    "catSlug": "transport-travel",
+    "catName": "Transport and Travel Hubs"
+  },
+  {
+    "id": 92,
+    "name": "Maradana Railway Station",
+    "city": "Colombo 10",
+    "catSlug": "transport-travel",
+    "catName": "Transport and Travel Hubs"
+  },
+  {
+    "id": 93,
+    "name": "Bambalapitiya Railway Station",
+    "city": "Colombo 04",
+    "catSlug": "transport-travel",
+    "catName": "Transport and Travel Hubs"
+  },
+  {
+    "id": 94,
+    "name": "Moratuwa Railway Station",
+    "city": "Moratuwa",
+    "catSlug": "transport-travel",
+    "catName": "Transport and Travel Hubs"
+  },
+  {
+    "id": 95,
+    "name": "Makumbura Multimodal Transport Hub (Kottawa / Homagama)",
+    "city": "Homagama",
+    "catSlug": "transport-travel",
+    "catName": "Transport and Travel Hubs"
+  },
+  {
+    "id": 96,
+    "name": "Bastian Mawatha Central Bus Stand (Pettah)",
+    "city": "Colombo 11",
+    "catSlug": "transport-travel",
+    "catName": "Transport and Travel Hubs"
+  },
+  {
+    "id": 97,
+    "name": "National Museum of Colombo",
+    "city": "Colombo 07",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 98,
+    "name": "Colombo Public Library",
+    "city": "Colombo 07",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 99,
+    "name": "Diyatha Uyana – Battaramulla",
+    "city": "Battaramulla",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 100,
+    "name": "Bandaranaike Memorial International Conference Hall (BMICH)",
+    "city": "Colombo 07",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 101,
+    "name": "Independence Memorial Hall & Museum",
+    "city": "Colombo 07",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 102,
+    "name": "Nelum Pokuna Mahinda Rajapaksa Theatre",
+    "city": "Colombo 07",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 103,
+    "name": "Sugathadasa National Sports Complex (Indoor & Outdoor Stadiums)",
+    "city": "Colombo 13",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  },
+  {
+    "id": 104,
+    "name": "Seethawaka Wet Zone Botanic Gardens (Avissawella)",
+    "city": "Avissawella",
+    "catSlug": "cultural-public-attractions",
+    "catName": "Cultural, Parks and Public Sites"
+  }
+]

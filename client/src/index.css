@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FFF9F0;
+    color: #684638;
+    font-family: 'Inter', sans-serif;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+
+  html.dark body,
+  .dark body {
+    background-color: #18110e;
+    color: #F8EEE5;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', 'Manrope', sans-serif;
+    color: #684638;
+    font-weight: 700;
+  }
+
+  html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h5, html.dark h6,
+  .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    color: #FFF9F0;
+  }
+
+  /* Global dark styling for base UI components */
+  html.dark .bg-white,
+  .dark .bg-white {
+    background-color: #241a15 !important;
+    color: #F8EEE5;
+  }
+
+  html.dark .bg-empoway-ivory,
+  .dark .bg-empoway-ivory {
+    background-color: #1e1511 !important;
+  }
+
+  html.dark .bg-empoway-cream,
+  .dark .bg-empoway-cream {
+    background-color: #2b1e18 !important;
+  }
+
+  html.dark .border-empoway-blush,
+  html.dark .border-empoway-blush\/80,
+  html.dark .border-empoway-blush\/70,
+  html.dark .border-empoway-blush\/60,
+  html.dark .border-empoway-blush\/50,
+  html.dark .border-empoway-blush\/40,
+  html.dark .border-empoway-champagne,
+  html.dark .border-empoway-cream,
+  .dark .border-empoway-blush,
+  .dark .border-empoway-blush\/80,
+  .dark .border-empoway-blush\/70,
+  .dark .border-empoway-blush\/60,
+  .dark .border-empoway-blush\/50,
+  .dark .border-empoway-blush\/40,
+  .dark .border-empoway-champagne,
+  .dark .border-empoway-cream {
+    border-color: #443229 !important;
+  }
+
+  html.dark .text-empoway-coffee,
+  .dark .text-empoway-coffee {
+    color: #F8EEE5 !important;
+  }
+
+  html.dark .text-empoway-coffee\/90,
+  html.dark .text-empoway-coffee\/80,
+  .dark .text-empoway-coffee\/90,
+  .dark .text-empoway-coffee\/80 {
+    color: #e8d7cf !important;
+  }
+
+  html.dark .text-empoway-muted,
+  .dark .text-empoway-muted {
+    color: #b5a49c !important;
+  }
+
+  html.dark input, html.dark select, html.dark textarea,
+  .dark input, .dark select, .dark textarea {
+    background-color: #1a120e !important;
+    color: #F8EEE5 !important;
+    border-color: #4a372f !important;
+  }
+
+  html.dark header,
+  .dark header {
+    background-color: rgba(24, 17, 14, 0.95) !important;
+    border-color: #3d2c24 !important;
+  }
+
+  html.dark footer,
+  .dark footer {
+    background-color: #18110e !important;
+    border-color: #3d2c24 !important;
+    color: #F8EEE5 !important;
+  }
+
+  html.dark .shadow-card,
+  .dark .shadow-card {
+    box-shadow: 0 8px 28px -4px rgba(0, 0, 0, 0.5) !important;
+  }
+}
+
+/* Accessible focus ring */
+:focus-visible {
+  outline: 2px solid #B96F54;
+  outline-offset: 2px;
+}
+
+/* Custom subtle scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F8EEE5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E9A58D;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #B96F54;
+}
+
+/* Leaflet container fixes */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.75rem;
+  z-index: 10;
+  font-family: 'Inter', sans-serif;
+}
+
+/* 3D Hardware acceleration and spatial depth helpers */
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.perspective-1200 {
+  perspective: 1200px;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* Responsive Touch Device Optimization */
+@media (hover: none) and (pointer: coarse) {
+  .preserve-3d {
+    transform-style: flat !important;
+  }
+}
+
+.touch-pan-y {
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+
