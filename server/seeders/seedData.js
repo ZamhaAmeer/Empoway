@@ -152,8 +152,7 @@ const seedDatabase = async () => {
           notes: 'Lowered registration window available at Counter 04.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1000&q=80', caption: 'NHSL Modern OPD Entrance and Drop-off Zone', isCover: true },
-          { url: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1000&q=80', caption: 'Step-free corridor connecting clinics and elevators', isCover: false }
+          { url: '/places/national-hospital-colombo.jpg', caption: 'NHSL Modern OPD Entrance and Drop-off Zone', isCover: true }
         ]
       },
       {
@@ -188,7 +187,7 @@ const seedDatabase = async () => {
           notes: 'Wheelchair assistance team stationed at the entrance lobby.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1512678080530-7760d81faba6?auto=format&fit=crop&w=1000&q=80', caption: 'Asiri Central Hospital Entrance Lobby', isCover: true }
+          { url: '/places/asiri-central-hospital.jpg', caption: 'Asiri Central Hospital Norris Canal Road multi-storey medical center', isCover: true }
         ]
       },
       {
@@ -221,7 +220,7 @@ const seedDatabase = async () => {
           notes: 'Restrooms in older wings require modernization for wheelchair turn radius.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1000&q=80', caption: 'Kalubowila Hospital clinical wing approach', isCover: true }
+          { url: '/places/kalubowila-hospital.jpg', caption: 'Colombo South Teaching Hospital (Kalubowila) main clinical complex approach', isCover: true }
         ]
       },
       {
@@ -253,7 +252,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1000&q=80', caption: 'Pediatric care complex entrance pathway', isCover: true }
+          { url: '/places/lady-ridgeway-hospital.jpg', caption: 'Lady Ridgeway Hospital for Children Borella pediatric complex entrance', isCover: true }
         ]
       },
       {
@@ -285,7 +284,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1000&q=80', caption: 'Castle Street Hospital front gate', isCover: true }
+          { url: '/places/castle-street-hospital.jpg', caption: 'Castle Street Hospital for Women Borella entrance and maternity care complex', isCover: true }
         ]
       },
 
@@ -322,7 +321,7 @@ const seedDatabase = async () => {
           notes: 'Ground floor staff assist with all registrar services.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1000&q=80', caption: 'College House heritage facade and side ramp approach', isCover: true }
+          { url: '/places/uoc-college-house.jpg', caption: 'University of Colombo College House heritage administration building and ramp approach', isCover: true }
         ]
       },
       {
@@ -355,7 +354,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1000&q=80', caption: 'Science faculty courtyard and connecting pathways', isCover: true }
+          { url: '/places/uoc-science-faculty.jpg', caption: 'University of Colombo Faculty of Science Kumaratunga Munidasa Mawatha campus', isCover: true }
         ]
       },
       {
@@ -387,7 +386,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1000&q=80', caption: 'University library entrance and reading lobby', isCover: true }
+          { url: '/places/uoc-science-faculty.jpg', caption: 'University of Colombo Main Library study commons and accessible ground entrance', isCover: true }
         ]
       },
       {
@@ -420,7 +419,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1000&q=80', caption: 'SLIIT Metro Campus tower entrance', isCover: true }
+          { url: '/places/sliit-malabe-campus.jpg', caption: 'SLIIT Metro Campus Kollupitiya Colombo city academic facility', isCover: true }
         ]
       },
 
@@ -457,7 +456,7 @@ const seedDatabase = async () => {
           notes: 'Special priority teller counter for senior citizens and mobility-impaired customers.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&w=1000&q=80', caption: 'BOC Tower plaza and entrance ramp', isCover: true }
+          { url: '/places/boc-tower-colombo.jpg', caption: 'Bank of Ceylon (BOC) Head Office Tower Colombo Fort plaza and ramp access', isCover: true }
         ]
       },
       {
@@ -490,7 +489,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80', caption: 'People\'s Bank Head Office facade and approach', isCover: true }
+          { url: '/places/peoples-bank-head-office.jpg', caption: 'People\'s Bank Head Office facade and approach', isCover: true }
         ]
       },
       {
@@ -522,7 +521,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'NOT_AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=1000&q=80', caption: 'Galle Road commercial bank entrance', isCover: true }
+          { url: '/places/commercial-bank-head-office.jpg', caption: 'Commercial Bank Kollupitiya Branch Galle Road banking facility', isCover: true }
         ]
       },
       {
@@ -554,7 +553,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1000&q=80', caption: 'Historic colonial bank branch exterior', isCover: true }
+          { url: '/places/sampath-bank-head-office.webp', caption: 'Sampath Bank Colombo Fort historic commercial banking center', isCover: true }
         ]
       },
 
@@ -591,7 +590,7 @@ const seedDatabase = async () => {
           notes: 'Special help desk staff assist visitors with payment forms and public inquiries.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1000&q=80', caption: 'Colombo Town Hall facade and south entrance approach', isCover: true },
+          { url: '/places/colombo-town-hall.jpg', caption: 'Colombo Municipal Council Town Hall iconic white facade and Viharamahadevi Park approach', isCover: true },
           { url: 'https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1000&q=80', caption: 'Accessible south wing entry ramp and doorway', isCover: false }
         ]
       },
@@ -624,7 +623,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1000&q=80', caption: 'Administrative service counters and waiting hall', isCover: true }
+          { url: '/places/colombo-town-hall.jpg', caption: 'Administrative service counters and waiting hall', isCover: true }
         ]
       },
       {
@@ -659,7 +658,7 @@ const seedDatabase = async () => {
           notes: 'Priority token counter 01 dedicated to people with disabilities and elderly citizens.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1000&q=80', caption: 'Suhurupaya Administrative Complex Battaramulla', isCover: true }
+          { url: '/places/peoples-bank-head-office.jpg', caption: 'Suhurupaya Administrative Complex Battaramulla', isCover: true }
         ]
       },
       {
@@ -724,7 +723,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1000&q=80', caption: 'Hulftsdorp Court complex entrance', isCover: true }
+          { url: '/places/supreme-court-colombo.jpg', caption: 'Hulftsdorp Court complex entrance', isCover: true }
         ]
       },
 
@@ -762,7 +761,7 @@ const seedDatabase = async () => {
         },
         photos: [
           { url: 'https://images.unsplash.com/photo-1519567241046-7f570eee3ce6?auto=format&fit=crop&w=1000&q=80', caption: 'Colombo City Centre main mall atrium and elevators', isCover: true },
-          { url: 'https://images.unsplash.com/photo-1567449303078-57ad995bd301?auto=format&fit=crop&w=1000&q=80', caption: 'Spacious accessible corridors and retail storefronts', isCover: false }
+          { url: '/places/colombo-city-centre.jpg', caption: 'Spacious accessible corridors and retail storefronts', isCover: false }
         ]
       },
       {
@@ -829,7 +828,7 @@ const seedDatabase = async () => {
           notes: 'Public restrooms along promenade have narrow doors and 2 entry steps.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80', caption: 'Galle Face Green oceanfront promenade at sunset', isCover: true }
+          { url: '/places/galle-face-green.jpg', caption: 'Galle Face Green oceanfront promenade at sunset', isCover: true }
         ]
       },
       {
@@ -929,7 +928,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1000&q=80', caption: 'Barefoot garden cafe open courtyard seating', isCover: true }
+          { url: '/places/barefoot-garden-cafe.jpg', caption: 'Barefoot garden cafe open courtyard seating', isCover: true }
         ]
       },
       {
@@ -961,7 +960,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=80', caption: 'Courtyard dining pavilion and reflection pool', isCover: true }
+          { url: '/places/the-gallery-cafe-colombo.webp', caption: 'Courtyard dining pavilion and reflection pool', isCover: true }
         ]
       },
       {
@@ -994,7 +993,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1000&q=80', caption: 'Artisan coffee bar seating and wide aisles', isCover: true }
+          { url: '/places/colombo-city-centre.jpg', caption: 'Artisan coffee bar seating and wide aisles', isCover: true }
         ]
       },
       {
@@ -1063,7 +1062,7 @@ const seedDatabase = async () => {
           notes: 'Dedicated accessible oceanfront rooms with roll-in showers available.'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=80', caption: 'Galle Face Hotel grand colonial entrance and ocean porch', isCover: true }
+          { url: '/places/galle-face-hotel.jpg', caption: 'Galle Face Hotel grand colonial entrance and ocean porch', isCover: true }
         ]
       },
       {
@@ -1129,7 +1128,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'UNKNOWN'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=80', caption: 'The Kingsbury waterfront facade and porte-cochere', isCover: true }
+          { url: '/places/the-kingsbury-colombo.jpg', caption: 'The Kingsbury waterfront facade and porte-cochere', isCover: true }
         ]
       },
       {
@@ -1162,7 +1161,7 @@ const seedDatabase = async () => {
           accessibleCounters: 'AVAILABLE'
         },
         photos: [
-          { url: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=80', caption: 'Shangri-La Colombo grand driveway and lobby concourse', isCover: true }
+          { url: '/places/shangri-la-colombo.jpg', caption: 'Shangri-La Colombo grand driveway and lobby concourse', isCover: true }
         ]
       }
     ];

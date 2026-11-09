@@ -237,7 +237,7 @@ export const AccessibilityScorecard = ({ scorecard, placeName }) => {
   );
 };
 
-export const FeatureChecklist = ({ features = {}, compact = false, showNotes = true }) => {
+export const FeatureChecklist = ({ features = {}, compact = false, showNotes = true, columns = 1 }) => {
   const { t } = usePreferences();
 
   if (compact) {
@@ -277,9 +277,11 @@ export const FeatureChecklist = ({ features = {}, compact = false, showNotes = t
     );
   }
 
+  const gridClass = columns === 2 ? 'grid-cols-1 md:grid-cols-2' : 'grid-cols-1';
+
   return (
     <div className="space-y-4">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <div className={`grid ${gridClass} gap-3`}>
         {FEATURE_CONFIG.map((item) => {
           const val = features[item.key] || 'UNKNOWN';
           const cfg = getStatusBadge(val, t);
@@ -300,12 +302,12 @@ export const FeatureChecklist = ({ features = {}, compact = false, showNotes = t
                       : 'bg-white border-empoway-blush/60'
                 }`}
             >
-              <div className="flex items-start justify-between gap-3">
-                <div className="flex items-start gap-3">
+              <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3">
+                <div className="flex items-start gap-3 min-w-0 flex-1">
                   <div className="p-2.5 rounded-xl bg-empoway-cream text-empoway-terracotta shrink-0 mt-0.5">
                     <Icon className="w-4 h-4" />
                   </div>
-                  <div>
+                  <div className="min-w-0 flex-1">
                     <h4 className="text-sm font-bold text-empoway-coffee leading-snug">
                       {label}
                     </h4>
@@ -315,11 +317,11 @@ export const FeatureChecklist = ({ features = {}, compact = false, showNotes = t
                   </div>
                 </div>
 
-                <div className="shrink-0 flex items-center gap-1">
+                <div className="shrink-0 flex items-center self-start sm:self-auto sm:ml-2">
                   <span
-                    className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold border shadow-2xs ${cfg.badgeClass}`}
+                    className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold border shadow-2xs whitespace-nowrap ${cfg.badgeClass}`}
                   >
-                    <StatusIcon className="w-3.5 h-3.5" />
+                    <StatusIcon className="w-3.5 h-3.5 shrink-0" />
                     <span>{cfg.label}</span>
                   </span>
                 </div>

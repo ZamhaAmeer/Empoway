@@ -81,7 +81,7 @@ export const UserDashboardPage = () => {
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-2xl font-extrabold text-empoway-coffee">
-                Ayubowan, {currentUser?.fullName}!
+                Hello, {currentUser?.fullName}!
               </h1>
               {currentUser?.role === 'admin' && (
                 <span className="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-purple-100 text-purple-800">
@@ -89,9 +89,11 @@ export const UserDashboardPage = () => {
                 </span>
               )}
             </div>
-            <p className="text-xs text-empoway-muted mt-0.5">
-              {currentUser?.bio || 'Mobility contributor helping make Colombo accessible.'}
-            </p>
+            {currentUser?.bio && (
+              <p className="text-xs text-empoway-muted mt-0.5">
+                {currentUser.bio}
+              </p>
+            )}
           </div>
         </div>
 

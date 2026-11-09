@@ -3,728 +3,1664 @@
     "id": 1,
     "name": "National Hospital of Sri Lanka (NHSL) – Outpatient Department",
     "city": "Borella / Colombo 10",
+    "address": "E. W. Perera Mawatha, Colombo 01000",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 1,
+        "url": "/places/national-hospital-colombo.jpg",
+        "caption": "National Hospital of Sri Lanka (NHSL) Colombo 10 Outpatient Department entrance and access ramp",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Asiri Central Hospital",
     "city": "Norris Canal / Colombo 10",
+    "address": "114 Norris Canal Rd, Colombo 01000",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 3,
+        "url": "/places/asiri-central-hospital.jpg",
+        "caption": "Asiri Central Hospital Norris Canal Road multi-storey medical center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Colombo South Teaching Hospital (Kalubowila)",
     "city": "Kalubowila",
+    "address": "Hospital Road, Kalubowila, Dehiwala-Mount Lavinia",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 4,
+        "url": "/places/kalubowila-hospital.jpg",
+        "caption": "Colombo South Teaching Hospital (Kalubowila) main clinical complex approach",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Lady Ridgeway Hospital for Children (LRH)",
     "city": "Borella / Colombo 08",
+    "address": "Dr Danister De Silva Mawatha, Colombo 00800",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 5,
+        "url": "/places/lady-ridgeway-hospital.jpg",
+        "caption": "Lady Ridgeway Hospital for Children Borella pediatric complex entrance",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 5,
     "name": "Castle Street Hospital for Women",
     "city": "Borella / Colombo 08",
+    "address": "Castle Street, Colombo 00800",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 6,
+        "url": "/places/castle-street-hospital.jpg",
+        "caption": "Castle Street Hospital for Women Borella entrance and maternity care complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 6,
     "name": "University of Colombo – College House (Senate Building)",
     "city": "Cinnamon Gardens / Colombo 03",
+    "address": "94 Cumaratunga Munidasa Mawatha, Colombo 00300",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 7,
+        "url": "/places/uoc-college-house.jpg",
+        "caption": "University of Colombo College House heritage administration building and ramp approach",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 7,
     "name": "University of Colombo – Faculty of Science Complex",
     "city": "Cinnamon Gardens / Colombo 07",
+    "address": "Kumaratunga Munidasa Mawatha, Colombo 00700",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 8,
+        "url": "/places/uoc-science-faculty.jpg",
+        "caption": "University of Colombo Faculty of Science Kumaratunga Munidasa Mawatha campus",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 8,
     "name": "University of Colombo – Main Library",
     "city": "Cinnamon Gardens / Colombo 07",
+    "address": "Reid Avenue, Colombo 00700",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 9,
+        "url": "/places/uoc-science-faculty.jpg",
+        "caption": "University of Colombo Main Library study commons and accessible ground entrance",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 9,
     "name": "SLIIT Metro Campus – Colombo City",
     "city": "Kollupitiya / Colombo 03",
+    "address": "BoC Merchant Tower, St Michael's Rd, Colombo 00300",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 10,
+        "url": "/places/sliit-malabe-campus.jpg",
+        "caption": "SLIIT Metro Campus Kollupitiya Colombo city academic facility",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 10,
     "name": "Bank of Ceylon (BOC) Head Office – BOC Tower",
     "city": "Colombo Fort / Colombo 01",
+    "address": "4 Bank of Ceylon Mawatha, Colombo 00100",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 11,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Head Office Tower Colombo Fort plaza and ramp access",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 11,
     "name": "People's Bank Head Office",
     "city": "Slave Island / Colombo 02",
+    "address": "75 Sir Chittampalam A Gardiner Mawatha, Colombo 00200",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 12,
+        "url": "/places/peoples-bank-head-office.jpg",
+        "caption": "People's Bank Head Office Sir Chittampalam A Gardiner Mawatha corporate tower",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 12,
     "name": "Commercial Bank – Kollupitiya Branch",
     "city": "Kollupitiya / Colombo 03",
+    "address": "416 Galle Road, Colombo 00300",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 13,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank Kollupitiya Branch Galle Road banking facility",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 13,
     "name": "Sampath Bank – Colombo Fort Branch",
     "city": "Colombo Fort / Colombo 01",
+    "address": "110 Sir Baron Jayathilake Mawatha, Colombo 00100",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 14,
+        "url": "/places/sampath-bank-head-office.webp",
+        "caption": "Sampath Bank Colombo Fort historic commercial banking center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 14,
     "name": "Colombo Municipal Council (Town Hall)",
     "city": "Cinnamon Gardens / Colombo 07",
+    "address": "Town Hall, F. R. Senanayake Mawatha, Colombo 00700",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 15,
+        "url": "/places/colombo-town-hall.jpg",
+        "caption": "Colombo Municipal Council Town Hall iconic white facade and Viharamahadevi Park approach",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 15,
     "name": "Colombo Divisional Secretariat",
     "city": "Pettah / Colombo 12",
+    "address": "Dam Street, Colombo 01200",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 17,
+        "url": "/places/colombo-town-hall.jpg",
+        "caption": "Colombo Divisional Secretariat administrative offices and public service hall",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 16,
     "name": "Department of Immigration & Emigration (Suhurupaya)",
     "city": "Battaramulla",
+    "address": "Suhurupaya, Subhuthipura Road, Battaramulla",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 18,
+        "url": "/places/suhurupaya-battaramulla.jpg",
+        "caption": "Department of Immigration & Emigration Suhurupaya Battaramulla",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 17,
     "name": "Sethsiripaya Administrative Complex – Stage II",
     "city": "Battaramulla",
+    "address": "Denzil Kobbekaduwa Mawatha, Battaramulla",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 19,
+        "url": "/places/sethsiripaya-battaramulla.jpg",
+        "caption": "Sethsiripaya Administrative Complex Stage II Battaramulla ministries complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 18,
     "name": "Supreme Court Complex of Sri Lanka",
     "city": "Hulftsdorp / Colombo 12",
+    "address": "Hulftsdorp Street, Colombo 01200",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 20,
+        "url": "/places/supreme-court-colombo.jpg",
+        "caption": "Supreme Court and Superior Courts Complex of Sri Lanka Hulftsdorp",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 19,
     "name": "Colombo City Centre (CCC)",
     "city": "Kollupitiya / Colombo 02",
+    "address": "137 Sir James Pieris Mawatha, Colombo 00200",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 21,
+        "url": "/places/colombo-city-centre.jpg",
+        "caption": "Colombo City Centre (CCC) shopping mall and luxury residential tower Sir James Pieris Mawatha",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 20,
     "name": "One Galle Face Mall (Shangri-La Complex)",
     "city": "Galle Face / Colombo 02",
+    "address": "1A Centre Road, Galle Face, Colombo 00200",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 23,
+        "url": "/places/one-galle-face-mall.jpg",
+        "caption": "One Galle Face Mall Colombo 02 premier shopping and lifestyle complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 21,
     "name": "Galle Face Green Promenade",
     "city": "Galle Face / Colombo 03",
+    "address": "Galle Main Road, Colombo 00300",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 24,
+        "url": "/places/galle-face-green.jpg",
+        "caption": "Galle Face Green oceanfront promenade and public recreational park Colombo",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 22,
     "name": "Independence Memorial Hall & Arcade",
     "city": "Cinnamon Gardens / Colombo 07",
+    "address": "Independence Square, Colombo 00700",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 25,
+        "url": "/places/arcade-independence-square.jpg",
+        "caption": "Arcade Independence Square Colombo 07 boutique shopping and colonial arcade",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 23,
     "name": "Viharamahadevi Park",
     "city": "Cinnamon Gardens / Colombo 07",
+    "address": "Cinnamon Gardens, Colombo 00700",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 26,
+        "url": "/places/viharamahadevi-park.jpg",
+        "caption": "Viharamahadevi Park Colombo 07 expansive public gardens and pathways",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 24,
     "name": "Barefoot Garden Cafe",
     "city": "Kollupitiya / Colombo 03",
+    "address": "704 Galle Road, Colombo 00300",
     "catSlug": "restaurants-cafes",
-    "catName": "Restaurants and Cafes"
+    "catName": "Restaurants and Cafes",
+    "photographs": [
+      {
+        "id": 27,
+        "url": "/places/barefoot-garden-cafe.jpg",
+        "caption": "Barefoot Garden Cafe & Art Gallery 704 Galle Road Colombo 03 lush courtyard cafe",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 25,
     "name": "The Gallery Café (Paradise Road)",
     "city": "Kollupitiya / Colombo 03",
+    "address": "2 Alfred House Road, Colombo 00300",
     "catSlug": "restaurants-cafes",
-    "catName": "Restaurants and Cafes"
+    "catName": "Restaurants and Cafes",
+    "photographs": [
+      {
+        "id": 28,
+        "url": "/places/the-gallery-cafe-colombo.webp",
+        "caption": "The Gallery Café Paradise Road Alfred House Road Geoffrey Bawa architecture",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 26,
     "name": "Department of Coffee",
     "city": "Cinnamon Gardens / Colombo 07",
+    "address": "10A Philip Gunawardena Mawatha, Colombo 00700",
     "catSlug": "restaurants-cafes",
-    "catName": "Restaurants and Cafes"
+    "catName": "Restaurants and Cafes",
+    "photographs": [
+      {
+        "id": 29,
+        "url": "/places/colombo-city-centre.jpg",
+        "caption": "Department of Coffee Colombo 07 specialty artisan coffee cafe",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 27,
     "name": "Java Lounge – Bambalapitiya",
     "city": "Bambalapitiya / Colombo 04",
+    "address": "498 Galle Road, Colombo 00400",
     "catSlug": "restaurants-cafes",
-    "catName": "Restaurants and Cafes"
+    "catName": "Restaurants and Cafes",
+    "photographs": [
+      {
+        "id": 30,
+        "url": "/places/havelock-city-mall.jpg",
+        "caption": "Java Lounge Bambalapitiya Galle Road flagship cafe and workspace",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 28,
     "name": "Galle Face Hotel",
     "city": "Galle Face / Colombo 03",
+    "address": "2 Galle Road, Colombo 00300",
     "catSlug": "hotels-accommodation",
-    "catName": "Hotels and Accommodation"
+    "catName": "Hotels and Accommodation",
+    "photographs": [
+      {
+        "id": 31,
+        "url": "/places/galle-face-hotel.jpg",
+        "caption": "The Historic Galle Face Hotel 1864 oceanfront heritage hotel Colombo 03",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 29,
     "name": "Cinnamon Grand Colombo",
     "city": "Kollupitiya / Colombo 03",
+    "address": "77 Galle Road, Colombo 00300",
     "catSlug": "hotels-accommodation",
-    "catName": "Hotels and Accommodation"
+    "catName": "Hotels and Accommodation",
+    "photographs": [
+      {
+        "id": 32,
+        "url": "/places/cinnamon-grand-hotel.jpg",
+        "caption": "Cinnamon Grand Colombo Galle Road luxury hotel and atrium lobby",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 30,
     "name": "The Kingsbury Colombo",
     "city": "Colombo Fort / Colombo 01",
+    "address": "48 Janadhipathi Mawatha, Colombo 00100",
     "catSlug": "hotels-accommodation",
-    "catName": "Hotels and Accommodation"
+    "catName": "Hotels and Accommodation",
+    "photographs": [
+      {
+        "id": 33,
+        "url": "/places/the-kingsbury-colombo.jpg",
+        "caption": "The Kingsbury Colombo Janadhipathi Mawatha luxury harbour view hotel",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 31,
     "name": "Shangri-La Colombo",
     "city": "Galle Face / Colombo 02",
+    "address": "1 Galle Face, Colombo 00200",
     "catSlug": "hotels-accommodation",
-    "catName": "Hotels and Accommodation"
+    "catName": "Hotels and Accommodation",
+    "photographs": [
+      {
+        "id": 34,
+        "url": "/places/shangri-la-colombo.jpg",
+        "caption": "Shangri-La Hotel Colombo One Galle Face waterfront luxury property",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 32,
     "name": "Nawaloka Hospital Specialist Center",
     "city": "Slave Island / Colombo 02",
+    "address": "23 Deshamanya H. K. Dharmadasa Mawatha, Colombo 00200",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 35,
+        "url": "/places/nawaloka-hospital-colombo.jpg",
+        "caption": "Nawaloka Hospital Specialist Center Slave Island medical towers and patient entrance",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 33,
     "name": "Apollo Diagnostics Colombo 03",
     "city": "Kollupitiya",
+    "address": "45 Alfred Place, Colombo 00300",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 115,
+        "url": "/places/lanka-hospitals-colombo.jpg",
+        "caption": "Apollo Diagnostics Kollupitiya diagnostic laboratory and patient collection center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 34,
     "name": "National Hospital of Sri Lanka (NHSL) – Main Complex",
     "city": "Colombo 10",
+    "address": "E. W. Perera Mawatha, Colombo 10",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 36,
+        "url": "/places/national-hospital-colombo.jpg",
+        "caption": "National Hospital of Sri Lanka (NHSL) Colombo 10 Main Hospital Complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 35,
     "name": "Lady Ridgeway Hospital for Children",
     "city": "Borella / Colombo 08",
+    "address": "Dr. Danister de Silva Mawatha, Colombo 08",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 38,
+        "url": "/places/lady-ridgeway-hospital.jpg",
+        "caption": "Lady Ridgeway Hospital for Children Borella main hospital complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 36,
     "name": "National Eye Hospital",
     "city": "Colombo 10",
+    "address": "Regent Street, Colombo 10",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 39,
+        "url": "/places/national-eye-hospital.jpg",
+        "caption": "National Eye Hospital Colombo 10 specialized ophthalmic referral hospital",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 37,
     "name": "Sri Jayewardenepura General Hospital",
     "city": "Kotte",
+    "address": "Thalapathpitiya, Nugegoda / Kotte",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 40,
+        "url": "/places/sri-jayewardenepura-hospital.jpg",
+        "caption": "Sri Jayewardenepura General Hospital Thalapathpitiya Kotte hospital complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 38,
     "name": "Apeksha Hospital Maharagama (National Cancer Institute)",
     "city": "Maharagama",
+    "address": "High Level Road, Maharagama",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 41,
+        "url": "/places/apeksha-hospital.jpg",
+        "caption": "Apeksha Hospital Maharagama (National Cancer Institute) specialized oncology center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 39,
     "name": "Homagama Base Hospital",
     "city": "Homagama",
+    "address": "Hospital Road, Homagama",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 42,
+        "url": "/places/kalubowila-hospital.jpg",
+        "caption": "Homagama Base Hospital Colombo District secondary referral healthcare center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 40,
     "name": "Seethawaka Base Hospital (Avissawella)",
     "city": "Avissawella",
+    "address": "Hospital Road, Avissawella",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 43,
+        "url": "/places/kalubowila-hospital.jpg",
+        "caption": "Seethawaka Base Hospital Avissawella healthcare facility and patient access",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 41,
     "name": "Asiri Surgical Hospital",
     "city": "Narahenpita / Colombo 05",
+    "address": "21 Kirimandala Mawatha, Colombo 05",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 44,
+        "url": "/places/asiri-central-hospital.jpg",
+        "caption": "Asiri Surgical Hospital Kirula Road Colombo 05 private surgical hospital",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 42,
     "name": "Lanka Hospitals – Main Facility",
     "city": "Narahenpita / Colombo 05",
+    "address": "578 Elvitigala Mawatha, Colombo 05",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 46,
+        "url": "/places/lanka-hospitals-colombo.jpg",
+        "caption": "Lanka Hospitals Corporation Baseline Road Narahenpita multi-specialty complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 43,
     "name": "Durdans Hospital – Kollupitiya",
     "city": "Colombo 03",
+    "address": "3 Alfred Place, Colombo 03",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 48,
+        "url": "/places/durdans-hospital.jpg",
+        "caption": "Durdans Hospital Alfred Place Kollupitiya Heart Centre building and main approach",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 44,
     "name": "Nawaloka Hospital – Colombo 02",
     "city": "Colombo 02",
+    "address": "23 Deshamanya H. K. Dharmadasa Mawatha, Colombo 02",
     "catSlug": "hospitals-healthcare",
-    "catName": "Hospitals and Healthcare"
+    "catName": "Hospitals and Healthcare",
+    "photographs": [
+      {
+        "id": 49,
+        "url": "/places/nawaloka-hospital-colombo.jpg",
+        "caption": "Nawaloka Hospital Colombo 02 inpatient and surgical towers",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 45,
     "name": "University of Colombo – College House & Main Campus",
     "city": "Colombo 03",
+    "address": "94 Cumaratunga Munidasa Mawatha, Colombo 03",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 50,
+        "url": "/places/uoc-college-house.jpg",
+        "caption": "University of Colombo Main Campus Kumaratunga Munidasa Mawatha Colombo 03",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 46,
     "name": "University of Colombo – Faculty of Medicine",
     "city": "Borella / Colombo 08",
+    "address": "Kynsey Road, Colombo 08",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 51,
+        "url": "/places/uoc-medical-faculty.jpg",
+        "caption": "University of Colombo Faculty of Medicine Kynsey Road historic medical college building",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 47,
     "name": "University of Sri Jayewardenepura – Gangodawila Campus",
     "city": "Nugegoda",
+    "address": "Gangodawila, Nugegoda",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 52,
+        "url": "/places/usj-university.jpg",
+        "caption": "University of Sri Jayewardenepura Gangodawila Nugegoda campus grounds",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 48,
     "name": "University of Moratuwa – Katubedda Campus",
     "city": "Moratuwa",
+    "address": "Bandaranayake Mawatha, Katubedda, Moratuwa",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 53,
+        "url": "/places/university-of-moratuwa.jpg",
+        "caption": "University of Moratuwa Katubedda technological university campus",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 49,
     "name": "Open University of Sri Lanka – Nawala Campus",
     "city": "Kotte",
+    "address": "Nawala Road, Nugegoda / Kotte",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 54,
+        "url": "/places/open-university-sri-lanka.jpg",
+        "caption": "Open University of Sri Lanka Nawala Campus headquarters and examination halls",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 50,
     "name": "University of Vocational Technology (UNIVOTEC) – Ratmalana",
     "city": "Ratmalana",
+    "address": "100 Kandawala Road, Ratmalana",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 55,
+        "url": "/places/sliit-malabe-campus.jpg",
+        "caption": "University of Vocational Technology (UNIVOTEC) Ratmalana academic building",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 51,
     "name": "SLIIT Malabe Campus",
     "city": "Malabe",
+    "address": "New Kandy Road, Malabe",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 56,
+        "url": "/places/sliit-malabe-campus.jpg",
+        "caption": "SLIIT Malabe Campus Faculty of Computing modern academic building",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 52,
     "name": "NSBM Green University – Pitipana Homagama",
     "city": "Homagama",
+    "address": "Mahenwatta, Pitipana, Homagama",
     "catSlug": "universities-education",
-    "catName": "Universities and Education"
+    "catName": "Universities and Education",
+    "photographs": [
+      {
+        "id": 58,
+        "url": "/places/nsbm-green-university.jpg",
+        "caption": "NSBM Green University Pitipana Homagama modern university town campus",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 53,
     "name": "Bank of Ceylon (BOC) – Head Office & Platinum Branch",
     "city": "Colombo 01",
+    "address": "BOC Square, No. 01 Bank of Ceylon Mawatha, Colombo 01",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 60,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Head Office & Platinum Branch BOC Tower Colombo Fort",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 54,
     "name": "Bank of Ceylon (BOC) – Nugegoda Branch",
     "city": "Nugegoda",
+    "address": "No. 152 High Level Road, Nugegoda",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 61,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Nugegoda Super Grade Branch High Level Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 55,
     "name": "Bank of Ceylon (BOC) – Battaramulla Branch",
     "city": "Battaramulla",
+    "address": "Main Street, Battaramulla",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 62,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Battaramulla Branch administrative capital branch",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 56,
     "name": "Bank of Ceylon (BOC) – Maharagama Branch",
     "city": "Maharagama",
+    "address": "High Level Road, Maharagama",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 63,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Maharagama Branch retail banking center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 57,
     "name": "Bank of Ceylon (BOC) – Moratuwa Branch",
     "city": "Moratuwa",
+    "address": "Galle Road, Rawathawatte, Moratuwa",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 64,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Moratuwa Branch Galle Road commercial banking center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 58,
     "name": "Bank of Ceylon (BOC) – Dehiwala Branch",
     "city": "Dehiwala",
+    "address": "Galle Road, Dehiwala",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 65,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Dehiwala Branch Galle Road branch",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 59,
     "name": "Bank of Ceylon (BOC) – Homagama Branch",
     "city": "Homagama",
+    "address": "High Level Road, Homagama",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 66,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Homagama Town Branch High Level Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 60,
     "name": "Bank of Ceylon (BOC) – Avissawella Branch",
     "city": "Avissawella",
+    "address": "Kudagama Road, Avissawella",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 67,
+        "url": "/places/boc-tower-colombo.jpg",
+        "caption": "Bank of Ceylon (BOC) Avissawella Branch commercial banking facility",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 61,
     "name": "Commercial Bank of Ceylon – Head Office & Foreign Branch",
     "city": "Colombo 01",
+    "address": "Commercial House, 21 Sir Razik Fareed Mawatha, Colombo 01",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 68,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank of Ceylon Head Office Commercial House Colombo Fort",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 62,
     "name": "Commercial Bank of Ceylon – Kollupitiya Branch",
     "city": "Colombo 03",
+    "address": "414 Galle Road, Colombo 03",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 69,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank of Ceylon Kollupitiya Super Grade Branch Galle Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 63,
     "name": "Commercial Bank of Ceylon – Nugegoda Branch",
     "city": "Nugegoda",
+    "address": "138 Stanley Thilakaratne Mawatha, Nugegoda",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 70,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank of Ceylon Nugegoda Branch Stanley Tillakaratne Mawatha",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 64,
     "name": "Commercial Bank of Ceylon – Battaramulla Branch",
     "city": "Battaramulla",
+    "address": "243 Pannipitiya Road, Battaramulla",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 71,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank of Ceylon Battaramulla Branch Pannipitiya Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 65,
     "name": "Commercial Bank of Ceylon – Mount Lavinia Branch",
     "city": "Mount Lavinia",
+    "address": "Galle Road, Mount Lavinia",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 72,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank of Ceylon Mount Lavinia Branch Galle Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 66,
     "name": "Commercial Bank of Ceylon – Malabe Branch",
     "city": "Malabe",
+    "address": "Kaduwela Road, Malabe",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 73,
+        "url": "/places/commercial-bank-head-office.jpg",
+        "caption": "Commercial Bank of Ceylon Malabe Branch Kandy Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 67,
     "name": "Sampath Bank – Head Office",
     "city": "Colombo 02",
+    "address": "110 Sir James Peiris Mawatha, Colombo 02",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 74,
+        "url": "/places/sampath-bank-head-office.webp",
+        "caption": "Sampath Bank PLC Head Office Sir James Pieris Mawatha Colombo 02",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 68,
     "name": "Sampath Bank – Bambalapitiya Super Branch",
     "city": "Colombo 04",
+    "address": "100 Galle Road, Colombo 04",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 75,
+        "url": "/places/sampath-bank-head-office.webp",
+        "caption": "Sampath Bank Bambalapitiya Super Branch Galle Road Colombo 04",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 69,
     "name": "Sampath Bank – Nugegoda Super Branch",
     "city": "Nugegoda",
+    "address": "187 High Level Road, Nugegoda",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 76,
+        "url": "/places/sampath-bank-head-office.webp",
+        "caption": "Sampath Bank Nugegoda Super Branch High Level Road",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 70,
     "name": "Central Bank of Sri Lanka (CBSL) – Headquarters",
     "city": "Colombo 01",
+    "address": "30 Janadhipathi Mawatha, Colombo 01",
     "catSlug": "banks-financial-services",
-    "catName": "Banks and Financial Services"
+    "catName": "Banks and Financial Services",
+    "photographs": [
+      {
+        "id": 77,
+        "url": "/places/central-bank-colombo.jpg",
+        "caption": "Central Bank of Sri Lanka (CBSL) Headquarters Janadhipathi Mawatha Colombo 01",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 71,
     "name": "Presidential Secretariat of Sri Lanka",
     "city": "Colombo 01",
+    "address": "Janadhipathi Mawatha / Galle Face, Colombo 01",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 78,
+        "url": "/places/presidential-secretariat.jpg",
+        "caption": "Presidential Secretariat of Sri Lanka historic Old Parliament Building Colombo 01",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 72,
     "name": "Prime Minister's Office – Colombo 07",
     "city": "Colombo 07",
+    "address": "58 Sir Ernest de Silva Mawatha, Colombo 07",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 79,
+        "url": "/places/colombo-town-hall.jpg",
+        "caption": "Prime Minister's Office Sir Ernest de Silva Mawatha Colombo 07",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 73,
     "name": "Department of Immigration and Emigration – \"Suhurupaya\"",
     "city": "Battaramulla",
+    "address": "Suhurupaya, Subhuthipura Road, Battaramulla",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 80,
+        "url": "/places/suhurupaya-battaramulla.jpg",
+        "caption": "Department of Immigration and Emigration \"Suhurupaya\" Battaramulla",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 74,
     "name": "Department of Motor Traffic – Werahera (Licensing Division)",
     "city": "Boralesgamuwa",
+    "address": "Colombo-Horana Road, Werahera, Boralesgamuwa",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 82,
+        "url": "/places/supreme-court-colombo.jpg",
+        "caption": "Department of Motor Traffic (DMT) Werahera Licensing and Vehicle Registration Division",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 75,
     "name": "Inland Revenue Department (IRD) – Head Office",
     "city": "Colombo 02",
+    "address": "Sir Chittampalam A. Gardiner Mawatha, Colombo 02",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 83,
+        "url": "/places/inland-revenue-department.jpg",
+        "caption": "Inland Revenue Department (IRD) Head Office Sir Chittampalam A Gardiner Mawatha Colombo 02",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 76,
     "name": "Sethsiripaya Administrative Complex",
     "city": "Battaramulla",
+    "address": "Battaramulla",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 84,
+        "url": "/places/sethsiripaya-battaramulla.jpg",
+        "caption": "Sethsiripaya Administrative Complex Battaramulla government ministries hub",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 77,
     "name": "Supreme Court & Superior Courts Complex – Hultsdorf",
     "city": "Colombo 12",
+    "address": "Adhikarana Mawatha, Hultsdorf, Colombo 12",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 85,
+        "url": "/places/supreme-court-colombo.jpg",
+        "caption": "Supreme Court & Superior Courts Complex of Sri Lanka Hulftsdorp Colombo 12",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 78,
     "name": "Divisional Secretariat – Moratuwa",
     "city": "Moratuwa",
+    "address": "Galle Road, Moratuwa",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 86,
+        "url": "/places/colombo-town-hall.jpg",
+        "caption": "Divisional Secretariat Moratuwa public services administration centre",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 79,
     "name": "Divisional Secretariat – Homagama",
     "city": "Homagama",
+    "address": "Station Road, Homagama",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 87,
+        "url": "/places/colombo-town-hall.jpg",
+        "caption": "Divisional Secretariat Homagama regional administrative complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 80,
     "name": "Divisional Secretariat – Kaduwela",
     "city": "Kaduwela",
+    "address": "Avissawella Road, Kaduwela",
     "catSlug": "government-offices",
-    "catName": "Government Offices"
+    "catName": "Government Offices",
+    "photographs": [
+      {
+        "id": 88,
+        "url": "/places/colombo-town-hall.jpg",
+        "caption": "Divisional Secretariat Kaduwela government public services division",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 81,
     "name": "John Keells Holdings PLC – Corporate Headquarters",
     "city": "Colombo 02",
+    "address": "117 Sir Chittampalam A. Gardiner Mawatha, Colombo 02",
     "catSlug": "corporate-headquarters",
-    "catName": "Corporate Organisations and Headquarters"
+    "catName": "Corporate Organisations and Headquarters",
+    "photographs": [
+      {
+        "id": 89,
+        "url": "/places/john-keells-holdings.jpg",
+        "caption": "John Keells Holdings PLC Corporate Headquarters Glennie Street Colombo 02",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 82,
     "name": "Hayleys PLC – Head Office",
     "city": "Colombo 10",
+    "address": "400 Deans Road, Colombo 10",
     "catSlug": "corporate-headquarters",
-    "catName": "Corporate Organisations and Headquarters"
+    "catName": "Corporate Organisations and Headquarters",
+    "photographs": [
+      {
+        "id": 90,
+        "url": "/places/hayleys-head-office.webp",
+        "caption": "Hayleys PLC Head Office Deans Road Colombo 10 enterprise tower",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 83,
     "name": "Dialog Axiata PLC – Headquarters",
     "city": "Colombo 02",
+    "address": "475 Union Place, Colombo 02",
     "catSlug": "corporate-headquarters",
-    "catName": "Corporate Organisations and Headquarters"
+    "catName": "Corporate Organisations and Headquarters",
+    "photographs": [
+      {
+        "id": 91,
+        "url": "/places/dialog-axiata-headquarters.jpg",
+        "caption": "Dialog Axiata PLC Corporate Headquarters Union Place Colombo 02",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 84,
     "name": "Sri Lanka Telecom (SLT-MOBITEL) – Telecom HQ",
     "city": "Colombo 01",
+    "address": "Telecom Headquarters, Lotus Road, Colombo 01",
     "catSlug": "corporate-headquarters",
-    "catName": "Corporate Organisations and Headquarters"
+    "catName": "Corporate Organisations and Headquarters",
+    "photographs": [
+      {
+        "id": 92,
+        "url": "/places/slt-headquarters.jpg",
+        "caption": "Sri Lanka Telecom (SLT-MOBITEL) – Telecom HQ Lotus Road Fort",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 85,
     "name": "One Galle Face Mall",
     "city": "Colombo 02",
+    "address": "1A Centre Road, Galle Face, Colombo 02",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 93,
+        "url": "/places/one-galle-face-mall.jpg",
+        "caption": "One Galle Face Mall Colombo 02 premier shopping, dining and entertainment complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 86,
     "name": "Majestic City",
     "city": "Colombo 04",
+    "address": "10 Station Road, Bambalapitiya, Colombo 04",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 95,
+        "url": "/places/majestic-city-colombo.webp",
+        "caption": "Majestic City Shopping Mall Galle Road Bambalapitiya Colombo 04",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 87,
     "name": "Liberty Plaza",
     "city": "Colombo 03",
+    "address": "250 R. A. De Mel Mawatha, Colombo 03",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 96,
+        "url": "/places/liberty-plaza-colombo.webp",
+        "caption": "Liberty Plaza Shopping Complex R. A. De Mel Mawatha Kollupitiya Colombo 03",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 88,
     "name": "Havelock City Mall",
     "city": "Colombo 05",
+    "address": "Havelock Road, Colombo 05",
     "catSlug": "shopping-public-places",
-    "catName": "Shopping and Public Places"
+    "catName": "Shopping and Public Places",
+    "photographs": [
+      {
+        "id": 97,
+        "url": "/places/havelock-city-mall.jpg",
+        "caption": "Havelock City Mall Havelock Road Colombo 05 luxury retail and lifestyle mall",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 89,
     "name": "Cinnamon Lakeside Colombo",
     "city": "Colombo 02",
+    "address": "115 Sir Chittampalam A. Gardiner Mawatha, Colombo 02",
     "catSlug": "hotels-accommodation",
-    "catName": "Hotels and Accommodation"
+    "catName": "Hotels and Accommodation",
+    "photographs": [
+      {
+        "id": 98,
+        "url": "/places/cinnamon-lakeside-colombo.jpg",
+        "caption": "Cinnamon Lakeside Colombo Sir Chittampalam A Gardiner Mawatha lakefront luxury hotel",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 90,
     "name": "Mount Lavinia Hotel",
     "city": "Mount Lavinia",
+    "address": "100 Hotel Road, Mount Lavinia",
     "catSlug": "hotels-accommodation",
-    "catName": "Hotels and Accommodation"
+    "catName": "Hotels and Accommodation",
+    "photographs": [
+      {
+        "id": 99,
+        "url": "/places/mount-lavinia-hotel.jpg",
+        "caption": "Mount Lavinia Hotel colonial heritage beachside hotel Mount Lavinia",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 91,
     "name": "Colombo Fort Railway Station",
     "city": "Colombo 01",
+    "address": "Olcott Mawatha, Colombo 01",
     "catSlug": "transport-travel",
-    "catName": "Transport and Travel Hubs"
+    "catName": "Transport and Travel Hubs",
+    "photographs": [
+      {
+        "id": 100,
+        "url": "/places/colombo-fort-station.jpg",
+        "caption": "Colombo Fort Railway Station central railway terminus and transport hub Colombo 01",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 92,
     "name": "Maradana Railway Station",
     "city": "Colombo 10",
+    "address": "Maradana Road, Colombo 10",
     "catSlug": "transport-travel",
-    "catName": "Transport and Travel Hubs"
+    "catName": "Transport and Travel Hubs",
+    "photographs": [
+      {
+        "id": 101,
+        "url": "/places/maradana-railway-station.jpg",
+        "caption": "Maradana Railway Station major suburban railway junction Colombo 10",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 93,
     "name": "Bambalapitiya Railway Station",
     "city": "Colombo 04",
+    "address": "Marine Drive, Colombo 04",
     "catSlug": "transport-travel",
-    "catName": "Transport and Travel Hubs"
+    "catName": "Transport and Travel Hubs",
+    "photographs": [
+      {
+        "id": 102,
+        "url": "/places/bambalapitiya-railway-station.jpg",
+        "caption": "Bambalapitiya Railway Station coastal railway line station Colombo 04",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 94,
     "name": "Moratuwa Railway Station",
     "city": "Moratuwa",
+    "address": "Station Road, Moratuwa",
     "catSlug": "transport-travel",
-    "catName": "Transport and Travel Hubs"
+    "catName": "Transport and Travel Hubs",
+    "photographs": [
+      {
+        "id": 103,
+        "url": "/places/moratuwa-railway-station.jpg",
+        "caption": "Moratuwa Railway Station suburban railway hub Galle Road Moratuwa",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 95,
     "name": "Makumbura Multimodal Transport Hub (Kottawa / Homagama)",
     "city": "Homagama",
+    "address": "High Level Road, Kottawa / Homagama",
     "catSlug": "transport-travel",
-    "catName": "Transport and Travel Hubs"
+    "catName": "Transport and Travel Hubs",
+    "photographs": [
+      {
+        "id": 104,
+        "url": "/places/makumbura-multimodal-hub.jpg",
+        "caption": "Makumbura Multimodal Transport Hub Kottawa high-speed highway transit interchange",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 96,
     "name": "Bastian Mawatha Central Bus Stand (Pettah)",
     "city": "Colombo 11",
+    "address": "Bastian Mawatha, Pettah, Colombo 11",
     "catSlug": "transport-travel",
-    "catName": "Transport and Travel Hubs"
+    "catName": "Transport and Travel Hubs",
+    "photographs": [
+      {
+        "id": 106,
+        "url": "/places/pettah-bus-stand.jpg",
+        "caption": "Bastian Mawatha Central Bus Stand Pettah long-distance bus terminus Colombo 11",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 97,
     "name": "National Museum of Colombo",
     "city": "Colombo 07",
+    "address": "Sir Marcus Fernando Mawatha, Colombo 07",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 107,
+        "url": "/places/national-museum-colombo.jpg",
+        "caption": "National Museum of Colombo Sir Marcus Fernando Mawatha Italianate palace museum",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 98,
     "name": "Colombo Public Library",
     "city": "Colombo 07",
+    "address": "Sir Marcus Fernando Mawatha, Colombo 07",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 108,
+        "url": "/places/colombo-public-library.jpg",
+        "caption": "Colombo Public Library Sir Marcus Fernando Mawatha knowledge center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 99,
     "name": "Diyatha Uyana – Battaramulla",
     "city": "Battaramulla",
+    "address": "Polduwa Junction, Battaramulla",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 109,
+        "url": "/places/diyatha-uyana.jpg",
+        "caption": "Diyatha Uyana Battaramulla Waters Edge lakeside boardwalk and recreation",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 100,
     "name": "Bandaranaike Memorial International Conference Hall (BMICH)",
     "city": "Colombo 07",
+    "address": "Bauddhaloka Mawatha, Colombo 07",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 110,
+        "url": "/places/bmich-colombo.jpg",
+        "caption": "BMICH (Bandaranaike Memorial International Conference Hall) Bauddhaloka Mawatha",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 101,
     "name": "Independence Memorial Hall & Museum",
     "city": "Colombo 07",
+    "address": "Independence Square, Colombo 07",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 111,
+        "url": "/places/independence-memorial-hall.jpg",
+        "caption": "Independence Memorial Hall and Museum Torrington Square national monument",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 102,
     "name": "Nelum Pokuna Mahinda Rajapaksa Theatre",
     "city": "Colombo 07",
+    "address": "110 Ananda Coomaraswamy Mawatha, Colombo 07",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 112,
+        "url": "/places/nelum-pokuna-theatre.jpg",
+        "caption": "Nelum Pokuna Mahinda Rajapaksa Theatre Albert Crescent performing arts center",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 103,
     "name": "Sugathadasa National Sports Complex (Indoor & Outdoor Stadiums)",
     "city": "Colombo 13",
+    "address": "Prince of Wales Avenue, Colombo 13",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 113,
+        "url": "/places/sugathadasa-stadium.jpg",
+        "caption": "Sugathadasa National Sports Complex Kotahena national stadium complex",
+        "isCover": true
+      }
+    ]
   },
   {
     "id": 104,
     "name": "Seethawaka Wet Zone Botanic Gardens (Avissawella)",
     "city": "Avissawella",
+    "address": "Illukovita, Avissawella",
     "catSlug": "cultural-public-attractions",
-    "catName": "Cultural, Parks and Public Sites"
+    "catName": "Cultural, Parks and Public Sites",
+    "photographs": [
+      {
+        "id": 114,
+        "url": "/places/seethawaka-botanic-gardens.jpg",
+        "caption": "Seethawaka Wet Zone Botanic Gardens Avissawella rainforest conservation park",
+        "isCover": true
+      }
+    ]
   }
 ]

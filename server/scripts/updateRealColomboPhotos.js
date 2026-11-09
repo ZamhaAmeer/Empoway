@@ -16,7 +16,7 @@ const REAL_PHOTO_MAPPING = {
     caption: 'National Hospital of Sri Lanka (NHSL) Colombo 10 Outpatient Department entrance and access ramp'
   },
   2: {
-    url: '/places/durdans-hospital.jpg',
+    url: '/places/asiri-central-hospital.jpg',
     caption: 'Asiri Central Hospital Norris Canal Road multi-storey medical center'
   },
   3: {
@@ -28,15 +28,15 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Lady Ridgeway Hospital for Children Borella pediatric complex entrance'
   },
   5: {
-    url: '/places/lady-ridgeway-hospital.jpg',
-    caption: 'Castle Street Hospital for Women Borella entrance and clinical ward wing'
+    url: '/places/castle-street-hospital.jpg',
+    caption: 'Castle Street Hospital for Women Borella entrance and maternity care complex'
   },
   32: {
-    url: '/places/durdans-hospital.jpg',
+    url: '/places/nawaloka-hospital-colombo.jpg',
     caption: 'Nawaloka Hospital Specialist Center Slave Island medical towers and patient entrance'
   },
   33: {
-    url: '/places/durdans-hospital.jpg',
+    url: '/places/lanka-hospitals-colombo.jpg',
     caption: 'Apollo Diagnostics Kollupitiya diagnostic laboratory and patient collection center'
   },
   34: {
@@ -48,15 +48,15 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Lady Ridgeway Hospital for Children Borella main hospital complex'
   },
   36: {
-    url: '/places/national-hospital-colombo.jpg',
+    url: '/places/national-eye-hospital.jpg',
     caption: 'National Eye Hospital Colombo 10 specialized ophthalmic referral hospital'
   },
   37: {
-    url: '/places/kalubowila-hospital.jpg',
+    url: '/places/sri-jayewardenepura-hospital.jpg',
     caption: 'Sri Jayewardenepura General Hospital Thalapathpitiya Kotte hospital complex'
   },
   38: {
-    url: '/places/national-hospital-colombo.jpg',
+    url: '/places/apeksha-hospital.jpg',
     caption: 'Apeksha Hospital Maharagama (National Cancer Institute) specialized oncology center'
   },
   39: {
@@ -68,11 +68,11 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Seethawaka Base Hospital Avissawella healthcare facility and patient access'
   },
   41: {
-    url: '/places/durdans-hospital.jpg',
+    url: '/places/asiri-central-hospital.jpg',
     caption: 'Asiri Surgical Hospital Kirula Road Colombo 05 private surgical hospital'
   },
   42: {
-    url: '/places/durdans-hospital.jpg',
+    url: '/places/lanka-hospitals-colombo.jpg',
     caption: 'Lanka Hospitals Corporation Baseline Road Narahenpita multi-specialty complex'
   },
   43: {
@@ -80,13 +80,13 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Durdans Hospital Alfred Place Kollupitiya Heart Centre building and main approach'
   },
   44: {
-    url: '/places/durdans-hospital.jpg',
+    url: '/places/nawaloka-hospital-colombo.jpg',
     caption: 'Nawaloka Hospital Colombo 02 inpatient and surgical towers'
   },
 
   // UNIVERSITIES & EDUCATION
   6: {
-    url: '/places/uoc-science-faculty.jpg',
+    url: '/places/uoc-college-house.jpg',
     caption: 'University of Colombo College House heritage administration building and ramp approach'
   },
   7: {
@@ -94,7 +94,7 @@ const REAL_PHOTO_MAPPING = {
     caption: 'University of Colombo Faculty of Science Kumaratunga Munidasa Mawatha campus'
   },
   8: {
-    url: '/places/colombo-public-library.jpg',
+    url: '/places/uoc-science-faculty.jpg',
     caption: 'University of Colombo Main Library study commons and accessible ground entrance'
   },
   9: {
@@ -102,7 +102,7 @@ const REAL_PHOTO_MAPPING = {
     caption: 'SLIIT Metro Campus Kollupitiya Colombo city academic facility'
   },
   45: {
-    url: '/places/uoc-science-faculty.jpg',
+    url: '/places/uoc-college-house.jpg',
     caption: 'University of Colombo Main Campus Kumaratunga Munidasa Mawatha Colombo 03'
   },
   46: {
@@ -114,7 +114,7 @@ const REAL_PHOTO_MAPPING = {
     caption: 'University of Sri Jayewardenepura Gangodawila Nugegoda campus grounds'
   },
   48: {
-    url: '/places/usj-university.jpg',
+    url: '/places/university-of-moratuwa.jpg',
     caption: 'University of Moratuwa Katubedda technological university campus'
   },
   49: {
@@ -130,7 +130,7 @@ const REAL_PHOTO_MAPPING = {
     caption: 'SLIIT Malabe Campus Faculty of Computing modern academic building'
   },
   52: {
-    url: '/places/sliit-malabe-campus.jpg',
+    url: '/places/nsbm-green-university.jpg',
     caption: 'NSBM Green University Pitipana Homagama modern university town campus'
   },
 
@@ -140,15 +140,15 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Bank of Ceylon (BOC) Head Office Tower Colombo Fort plaza and ramp access'
   },
   11: {
-    url: '/places/central-bank-colombo.jpg',
+    url: '/places/peoples-bank-head-office.jpg',
     caption: "People's Bank Head Office Sir Chittampalam A Gardiner Mawatha corporate tower"
   },
   12: {
-    url: '/places/cargills-building-fort.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank Kollupitiya Branch Galle Road banking facility'
   },
   13: {
-    url: '/places/cargills-building-fort.jpg',
+    url: '/places/sampath-bank-head-office.webp',
     caption: 'Sampath Bank Colombo Fort historic commercial banking center'
   },
   53: {
@@ -184,39 +184,39 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Bank of Ceylon (BOC) Avissawella Branch commercial banking facility'
   },
   61: {
-    url: '/places/cargills-building-fort.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank of Ceylon Head Office Commercial House Colombo Fort'
   },
   62: {
-    url: '/places/hnb-tower-colombo.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank of Ceylon Kollupitiya Super Grade Branch Galle Road'
   },
   63: {
-    url: '/places/central-bank-colombo.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank of Ceylon Nugegoda Branch Stanley Tillakaratne Mawatha'
   },
   64: {
-    url: '/places/central-bank-colombo.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank of Ceylon Battaramulla Branch Pannipitiya Road'
   },
   65: {
-    url: '/places/cargills-building-fort.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank of Ceylon Mount Lavinia Branch Galle Road'
   },
   66: {
-    url: '/places/central-bank-colombo.jpg',
+    url: '/places/commercial-bank-head-office.jpg',
     caption: 'Commercial Bank of Ceylon Malabe Branch Kandy Road'
   },
   67: {
-    url: '/places/hnb-tower-colombo.jpg',
+    url: '/places/sampath-bank-head-office.webp',
     caption: 'Sampath Bank PLC Head Office Sir James Pieris Mawatha Colombo 02'
   },
   68: {
-    url: '/places/hnb-tower-colombo.jpg',
+    url: '/places/sampath-bank-head-office.webp',
     caption: 'Sampath Bank Bambalapitiya Super Branch Galle Road Colombo 04'
   },
   69: {
-    url: '/places/hnb-tower-colombo.jpg',
+    url: '/places/sampath-bank-head-office.webp',
     caption: 'Sampath Bank Nugegoda Super Branch High Level Road'
   },
   70: {
@@ -230,15 +230,15 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Colombo Municipal Council Town Hall iconic white facade and Viharamahadevi Park approach'
   },
   15: {
-    url: '/places/supreme-court-colombo.jpg',
+    url: '/places/colombo-town-hall.jpg',
     caption: 'Colombo Divisional Secretariat administrative offices and public service hall'
   },
   16: {
-    url: '/places/diyatha-uyana.jpg',
+    url: '/places/suhurupaya-battaramulla.jpg',
     caption: 'Department of Immigration & Emigration Suhurupaya Battaramulla'
   },
   17: {
-    url: '/places/diyatha-uyana.jpg',
+    url: '/places/sethsiripaya-battaramulla.jpg',
     caption: 'Sethsiripaya Administrative Complex Stage II Battaramulla ministries complex'
   },
   18: {
@@ -254,7 +254,7 @@ const REAL_PHOTO_MAPPING = {
     caption: "Prime Minister's Office Sir Ernest de Silva Mawatha Colombo 07"
   },
   73: {
-    url: '/places/diyatha-uyana.jpg',
+    url: '/places/suhurupaya-battaramulla.jpg',
     caption: 'Department of Immigration and Emigration "Suhurupaya" Battaramulla'
   },
   74: {
@@ -262,11 +262,11 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Department of Motor Traffic (DMT) Werahera Licensing and Vehicle Registration Division'
   },
   75: {
-    url: '/places/hnb-tower-colombo.jpg',
+    url: '/places/inland-revenue-department.jpg',
     caption: 'Inland Revenue Department (IRD) Head Office Sir Chittampalam A Gardiner Mawatha Colombo 02'
   },
   76: {
-    url: '/places/diyatha-uyana.jpg',
+    url: '/places/sethsiripaya-battaramulla.jpg',
     caption: 'Sethsiripaya Administrative Complex Battaramulla government ministries hub'
   },
   77: {
@@ -288,20 +288,20 @@ const REAL_PHOTO_MAPPING = {
 
   // CORPORATE HEADQUARTERS
   81: {
-    url: '/places/colombo-city-centre.jpg',
+    url: '/places/john-keells-holdings.jpg',
     caption: 'John Keells Holdings PLC Corporate Headquarters Glennie Street Colombo 02'
   },
   82: {
-    url: '/places/cargills-building-fort.jpg',
+    url: '/places/hayleys-head-office.webp',
     caption: 'Hayleys PLC Head Office Deans Road Colombo 10 enterprise tower'
   },
   83: {
-    url: '/places/hnb-tower-colombo.jpg',
+    url: '/places/dialog-axiata-headquarters.jpg',
     caption: 'Dialog Axiata PLC Corporate Headquarters Union Place Colombo 02'
   },
   84: {
-    url: '/places/lotus-tower-colombo.jpg',
-    caption: 'Sri Lanka Telecom (SLT-MOBITEL) Telecom HQ Lotus Road Fort and Lotus Tower vista'
+    url: '/places/slt-headquarters.jpg',
+    caption: 'Sri Lanka Telecom (SLT-MOBITEL) Telecom HQ Lotus Road Fort'
   },
 
   // SHOPPING & PUBLIC PLACES
@@ -330,11 +330,11 @@ const REAL_PHOTO_MAPPING = {
     caption: 'One Galle Face Mall Colombo 02 premier shopping, dining and entertainment complex'
   },
   86: {
-    url: '/places/havelock-city-mall.jpg',
+    url: '/places/majestic-city-colombo.webp',
     caption: 'Majestic City Shopping Mall Galle Road Bambalapitiya Colombo 04'
   },
   87: {
-    url: '/places/colombo-city-centre.jpg',
+    url: '/places/liberty-plaza-colombo.webp',
     caption: 'Liberty Plaza Shopping Complex R. A. De Mel Mawatha Kollupitiya Colombo 03'
   },
   88: {
@@ -344,11 +344,11 @@ const REAL_PHOTO_MAPPING = {
 
   // RESTAURANTS & CAFES
   24: {
-    url: '/places/arcade-independence-square.jpg',
-    caption: 'Barefoot Garden Cafe & Art Gallery Kollupitiya lush courtyard cafe'
+    url: '/places/barefoot-garden-cafe.jpg',
+    caption: 'Barefoot Garden Cafe & Art Gallery 704 Galle Road Colombo 03 lush courtyard cafe'
   },
   25: {
-    url: '/places/arcade-independence-square.jpg',
+    url: '/places/the-gallery-cafe-colombo.webp',
     caption: 'The Gallery Café Paradise Road Alfred House Road Geoffrey Bawa architecture'
   },
   26: {
@@ -370,15 +370,15 @@ const REAL_PHOTO_MAPPING = {
     caption: 'Cinnamon Grand Colombo Galle Road luxury hotel and atrium lobby'
   },
   30: {
-    url: '/places/hilton-colombo.jpg',
+    url: '/places/the-kingsbury-colombo.jpg',
     caption: 'The Kingsbury Colombo Janadhipathi Mawatha luxury harbour view hotel'
   },
   31: {
-    url: '/places/one-galle-face-mall.jpg',
+    url: '/places/shangri-la-colombo.jpg',
     caption: 'Shangri-La Hotel Colombo One Galle Face waterfront luxury property'
   },
   89: {
-    url: '/places/cinnamon-grand-hotel.jpg',
+    url: '/places/cinnamon-lakeside-colombo.jpg',
     caption: 'Cinnamon Lakeside Colombo Sir Chittampalam A Gardiner Mawatha lakefront luxury hotel'
   },
   90: {
@@ -401,76 +401,69 @@ const REAL_PHOTO_MAPPING = {
   },
   94: {
     url: '/places/moratuwa-railway-station.jpg',
-    caption: 'Moratuwa Railway Station southern coastal line railway hub Moratuwa'
+    caption: 'Moratuwa Railway Station suburban railway hub Galle Road Moratuwa'
   },
   95: {
     url: '/places/makumbura-multimodal-hub.jpg',
-    caption: 'Makumbura Multimodal Transport Hub MMC Kottawa / Homagama integrated bus, train and taxi terminal'
+    caption: 'Makumbura Multimodal Transport Hub Kottawa high-speed highway transit interchange'
   },
   96: {
     url: '/places/pettah-bus-stand.jpg',
-    caption: 'Bastian Mawatha Central Bus Stand Pettah intercity and provincial bus terminal'
+    caption: 'Bastian Mawatha Central Bus Stand Pettah long-distance bus terminus Colombo 11'
   },
 
-  // CULTURAL, PARKS & PUBLIC SITES
+  // CULTURAL, PARKS & HISTORIC SITES
   97: {
     url: '/places/national-museum-colombo.jpg',
-    caption: 'National Museum of Colombo Sir Marcus Fernando Mawatha Colombo 07 national heritage museum'
+    caption: 'National Museum of Colombo Sir Marcus Fernando Mawatha Italianate palace museum'
   },
   98: {
     url: '/places/colombo-public-library.jpg',
-    caption: 'Colombo Public Library Sir Marcus Fernando Mawatha Colombo 07 central municipal library'
+    caption: 'Colombo Public Library Sir Marcus Fernando Mawatha knowledge center'
   },
   99: {
     url: '/places/diyatha-uyana.jpg',
-    caption: 'Diyatha Uyana Battaramulla Waters Edge lakeside park and walking trail'
+    caption: 'Diyatha Uyana Battaramulla Waters Edge lakeside boardwalk and recreation'
   },
   100: {
     url: '/places/bmich-colombo.jpg',
-    caption: 'BMICH Bauddhaloka Mawatha Colombo 07 international convention and exhibition centre'
+    caption: 'BMICH (Bandaranaike Memorial International Conference Hall) Bauddhaloka Mawatha'
   },
   101: {
     url: '/places/independence-memorial-hall.jpg',
-    caption: 'Independence Memorial Hall and National Museum of Independence Colombo 07'
+    caption: 'Independence Memorial Hall and Museum Torrington Square national monument'
   },
   102: {
     url: '/places/nelum-pokuna-theatre.jpg',
-    caption: 'Nelum Pokuna Mahinda Rajapaksa Theatre Lotus Pond performing arts auditorium Colombo 07'
+    caption: 'Nelum Pokuna Mahinda Rajapaksa Theatre Albert Crescent performing arts center'
   },
   103: {
     url: '/places/sugathadasa-stadium.jpg',
-    caption: 'Sugathadasa National Sports Complex Colombo 13 national stadium and athletic arena'
+    caption: 'Sugathadasa National Sports Complex Kotahena national stadium complex'
   },
   104: {
     url: '/places/seethawaka-botanic-gardens.jpg',
-    caption: 'Seethawaka Wet Zone Botanic Gardens Illukowita Avissawella lush botanical preserve'
+    caption: 'Seethawaka Wet Zone Botanic Gardens Avissawella rainforest conservation park'
   }
 };
 
 async function updateRealColomboPhotos() {
   try {
-    console.log('================================================================');
-    console.log('  EMPOWAY – Updating Real Photographs for Colombo District Places');
-    console.log('================================================================');
-
     await initDatabase();
+    console.log('[RealPhotos] Applying authentic Colombo photographs to all places in database...');
 
-    const places = await Place.findAll({
-      order: [['id', 'ASC']]
-    });
-
-    console.log(`Found ${places.length} places in database.`);
     let updatedCount = 0;
     let createdCount = 0;
 
-    for (const place of places) {
-      const mapping = REAL_PHOTO_MAPPING[place.id];
-      if (!mapping) {
-        console.warn(`[WARN] No explicit photo mapping for place ID ${place.id}: ${place.name}`);
+    for (const [placeIdStr, mapping] of Object.entries(REAL_PHOTO_MAPPING)) {
+      const placeId = parseInt(placeIdStr, 10);
+      const place = await Place.findByPk(placeId);
+      if (!place) {
+        console.warn(`Place #${placeId} not found in database. Skipping.`);
         continue;
       }
 
-      // Check if place already has a cover photograph
+      // Check existing cover photo
       const existingCover = await Photograph.findOne({
         where: { placeId: place.id, isCover: true }
       });
@@ -513,6 +506,25 @@ async function updateRealColomboPhotos() {
           createdCount++;
         }
       }
+
+      // Also clean up any other non-cover photos that have outdated placeholder URLs
+      const secondaryPhotos = await Photograph.findAll({
+        where: { placeId: place.id, isCover: false }
+      });
+      for (const sp of secondaryPhotos) {
+        // If secondary photo points to a mismatched placeholder, update it or remove if duplicate
+        if (sp.url.includes('cargills') && !mapping.url.includes('cargills')) {
+          await sp.destroy();
+        } else if (sp.url.includes('central-bank') && !mapping.url.includes('central-bank')) {
+          await sp.destroy();
+        } else if (sp.url.includes('hnb-tower') && !mapping.url.includes('hnb-tower')) {
+          await sp.destroy();
+        } else if (sp.url.includes('durdans') && !mapping.url.includes('durdans')) {
+          await sp.destroy();
+        } else if (sp.url.includes('diyatha-uyana') && !mapping.url.includes('diyatha-uyana')) {
+          await sp.destroy();
+        }
+      }
     }
 
     console.log(`\nSuccessfully applied real photos: ${updatedCount} updated, ${createdCount} created.`);
@@ -528,12 +540,15 @@ async function updateRealColomboPhotos() {
           attributes: ['id', 'url', 'caption']
         }
       ],
-      limit: 10
+      where: {
+        id: [10, 11, 12, 13, 2, 5, 32, 36, 37, 48, 52, 61, 67, 75, 76, 81, 82, 83, 84, 86, 87]
+      },
+      order: [['id', 'ASC']]
     });
 
-    console.log('\nSample verified places with real photos:');
+    console.log('\nKey updated places verification:');
     sample.forEach(s => {
-      console.log(`- #${s.id} ${s.name}: ${s.photographs[0]?.url} ("${s.photographs[0]?.caption}")`);
+      console.log(`- #${s.id} ${s.name}: ${s.photographs[0]?.url}`);
     });
 
     process.exit(0);
@@ -544,4 +559,3 @@ async function updateRealColomboPhotos() {
 }
 
 updateRealColomboPhotos();
-

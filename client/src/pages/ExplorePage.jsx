@@ -176,7 +176,7 @@ export const ExplorePage = () => {
           <div className="flex items-center gap-2 text-xs text-empoway-muted mb-1">
             <span>EMPOWAY</span>
             <ChevronRight className="w-3 h-3" />
-            <span className="text-empoway-terracotta font-semibold">{t('colomboPilotPill')}</span>
+            <span className="text-empoway-terracotta font-semibold">{t('exploreBreadcrumb', 'Colombo Directory')}</span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-extrabold text-empoway-coffee">
             {t('exploreTitle')}

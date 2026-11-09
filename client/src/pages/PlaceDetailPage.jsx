@@ -121,7 +121,7 @@ export const PlaceDetailPage = () => {
 
   const allPhotos =
     place.photographs && place.photographs.length > 0
-      ? place.photographs
+      ? [...place.photographs].sort((a, b) => (b.isCover ? 1 : 0) - (a.isCover ? 1 : 0))
       : [
           {
             url: '/places/colombo-city-centre.jpg',
@@ -767,7 +767,7 @@ export const PlaceDetailPage = () => {
               </p>
             </div>
 
-            <FeatureChecklist features={feat} compact={false} showNotes={true} />
+            <FeatureChecklist features={feat} compact={false} showNotes={true} columns={1} />
           </div>
 
           {/* Embedded Colombo Location Map */}

@@ -488,7 +488,7 @@ export const HomePage = () => {
                 <span>•</span>
                 <span className="flex items-center gap-1">
                   <Heart className="w-3.5 h-3.5 text-rose-400" />
-                  <span>Colombo District Pilot</span>
+                  <span>Starting in Colombo, Expanding Across Sri Lanka</span>
                 </span>
               </div>
             </div>

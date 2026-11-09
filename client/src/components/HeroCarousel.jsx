@@ -23,10 +23,10 @@ export const HERO_SLIDES = [
   {
     id: 1,
     image: '/images/hero/hero-slide-1.jpg',
-    tagline: 'Urban Mobility & Independence',
-    location: 'Public Plazas & City Spaces • Colombo',
-    highlight: 'Step-Free Pavements & Drop Kerbs',
-    alt: 'Wheelchair user independently navigating an open urban public concourse with smooth step-free paving'
+    tagline: 'Starting in Colombo, Expanding Across Sri Lanka',
+    location: 'Colombo Fort Heritage & Modern Skyline • Colombo 01',
+    highlight: 'Accessible Urban Spaces & Public Heritage',
+    alt: 'Golden hour panoramic view of historic red-roofed colonial architecture and modern skyscrapers in Colombo Fort'
   },
   {
     id: 2,
@@ -194,12 +194,12 @@ export const HeroCarousel = () => {
       {/* TOP STATUS BADGES (Aligned within container) */}
       <div className="absolute top-6 left-0 right-0 z-20 pointer-events-none">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
-          {/* Live Pilot Pill */}
+          {/* Live Dedicated Colombo City Badge */}
           <div className="pointer-events-auto inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/95 backdrop-blur-md border border-empoway-blush/80 shadow-card text-xs font-bold text-empoway-coffee">
             <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse" />
             <span>{t('colomboPilotPill')}</span>
             <span className="text-empoway-muted">•</span>
-            <span className="text-empoway-terracotta">{t('sriLanka')}</span>
+            <span className="text-empoway-terracotta">{t('colomboTaglineBadge')}</span>
           </div>
 
           {/* Slide Theme / Location Badge */}
