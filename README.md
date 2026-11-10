@@ -74,19 +74,6 @@ EMPOWAY combines **Sunset Peach** (warm, friendly, empowering) and **Champagne L
   - **Manage Places:** Edit verification status to `VERIFIED` with physical audit notes.
   - **Audit History:** Full log of moderation actions.
 
----
-
-## 🔑 Demo Credentials
-
-| Role | Email | Password |
-|---|---|---|
-| **Lead Auditor (Admin)** | `admin@empoway.lk` | `Password123!` |
-| **Community Contributor** | `kavindi@empoway.lk` | `Password123!` |
-
-*(One-click demo login buttons are provided on the Sign In page for convenience).*
-
----
-
 ## 🛠️ Technology Stack
 
 - **Frontend:** React 18, Vite, Tailwind CSS, React Router v6, Leaflet & React Leaflet, Lucide React.
