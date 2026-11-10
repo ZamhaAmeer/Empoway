@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Route, Navigation, ShieldCheck, Compass, Radio } from 'lucide-react';
+import { MapPin, Route, Navigation, ShieldCheck } from 'lucide-react';
 
 export const AuthJourneyBackground = () => {
   return (
@@ -175,33 +175,6 @@ export const AuthJourneyBackground = () => {
           </div>
           <p className="text-xs font-bold text-empoway-coffee dark:text-white truncate">104 Verified Places</p>
           <p className="text-[11px] text-empoway-terracotta font-medium truncate">Expanding Across Sri Lanka</p>
-        </div>
-      </div>
-
-      {/* 6. Subtle Perimeter Cartographic HUD Telemetry */}
-      <div className="hidden md:flex items-center justify-between px-8 py-3 absolute top-2 inset-x-0 text-[11px] font-mono text-empoway-muted/70 dark:text-empoway-cream/55">
-        <div className="flex items-center gap-2">
-          <Radio className="w-3.5 h-3.5 text-empoway-terracotta animate-pulse" />
-          <span>EMPOWAY ACCESSIBILITY RADAR</span>
-          <span>•</span>
-          <span className="text-emerald-600 dark:text-emerald-400 font-bold">LIVE ROUTE SYNC</span>
-        </div>
-        <div className="hidden lg:flex items-center gap-3">
-          <span>LAT 06°55'44"N</span>
-          <span>LON 79°51'36"E</span>
-          <span>ELEV 8M</span>
-        </div>
-      </div>
-
-      <div className="hidden md:flex items-center justify-between px-8 py-3 absolute bottom-2 inset-x-0 text-[11px] font-mono text-empoway-muted/65 dark:text-empoway-cream/50">
-        <div className="flex items-center gap-2">
-          <Compass className="w-3.5 h-3.5 text-empoway-caramel animate-spin" style={{ animationDuration: '30s' }} />
-          <span>COLOMBO PILOT v1.0</span>
-          <span>•</span>
-          <span>STEP-FREE MAPPING</span>
-        </div>
-        <div>
-          <span>EMPOWERING EVERY JOURNEY</span>
         </div>
       </div>
     </div>
