@@ -52,14 +52,14 @@ const ProtectedRoute = ({ children, reason = 'access this feature' }) => {
   return children;
 };
 
-function App() {
+function AppContent() {
+  const location = useLocation();
+  const isHome = location.pathname === '/';
+
   return (
-    <Router>
-      <AuthProvider>
-        <PreferencesProvider>
-          <div className="min-h-screen flex flex-col bg-empoway-ivory dark:bg-[#18110e] text-empoway-coffee dark:text-empoway-ivory transition-colors">
-            <Navbar />
-            <main className="flex-1">
+    <div className="min-h-screen flex flex-col bg-empoway-ivory dark:bg-[#18110e] text-empoway-coffee dark:text-empoway-ivory transition-colors">
+      <Navbar isHome={isHome} />
+      <main className={`flex-1 ${isHome ? '' : 'pt-16'}`}>
             <Routes>
               {/* Public Routes (Accessible Before Login) */}
               <Route path="/" element={<HomePage />} />
@@ -149,9 +149,18 @@ function App() {
           <Footer />
           <AiChatbot />
         </div>
-      </PreferencesProvider>
-    </AuthProvider>
-  </Router>
+  );
+}
+
+function App() {
+  return (
+    <Router>
+      <AuthProvider>
+        <PreferencesProvider>
+          <AppContent />
+        </PreferencesProvider>
+      </AuthProvider>
+    </Router>
   );
 }
 

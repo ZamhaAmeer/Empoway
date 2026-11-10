@@ -170,5 +170,128 @@
   -webkit-overflow-scrolling: touch;
 }
 
+/* ========================================================
+   Auth & Hero Dynamic Journey Moving Patterns & Keyframes
+   ======================================================== */
+@keyframes flowDash {
+  0% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: -120;
+  }
+}
+
+@keyframes flowDashReverse {
+  0% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: 120;
+  }
+}
+
+@keyframes flowDashSlow {
+  0% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: -80;
+  }
+}
+
+@keyframes radarSweep {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-12px) rotate(0.8deg);
+  }
+}
+
+@keyframes floatReverse {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(12px) rotate(-0.8deg);
+  }
+}
+
+@keyframes driftOrb1 {
+  0%, 100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  50% {
+    transform: translate(45px, 25px) scale(1.08);
+  }
+}
+
+@keyframes driftOrb2 {
+  0%, 100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  50% {
+    transform: translate(-35px, -30px) scale(1.06);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.35;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.06);
+  }
+}
+
+.animate-flow-dash {
+  animation: flowDash 14s linear infinite;
+}
+
+.animate-flow-dash-reverse {
+  animation: flowDashReverse 18s linear infinite;
+}
+
+.animate-flow-dash-slow {
+  animation: flowDashSlow 24s linear infinite;
+}
+
+.animate-radar-sweep {
+  animation: radarSweep 20s linear infinite;
+}
+
+.animate-float-slow {
+  animation: floatSlow 7s ease-in-out infinite;
+}
+
+.animate-float-reverse {
+  animation: floatReverse 8s ease-in-out infinite;
+}
+
+.animate-drift-orb-1 {
+  animation: driftOrb1 18s ease-in-out infinite;
+}
+
+.animate-drift-orb-2 {
+  animation: driftOrb2 22s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 5s ease-in-out infinite;
+}
+
+
 
 

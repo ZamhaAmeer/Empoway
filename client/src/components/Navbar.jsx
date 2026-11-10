@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Link, NavLink, useNavigate } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { Link, NavLink, useNavigate, useLocation } from 'react-router-dom';
 import {
   Compass,
   PlusCircle,
@@ -18,12 +18,24 @@ import {
 import { useAuth } from '../context/AuthContext';
 import { usePreferences } from '../context/PreferencesContext';
 
-export const Navbar = () => {
+export const Navbar = ({ isHome: propIsHome }) => {
   const { user, isAdmin, logout, promptLogin } = useAuth();
   const { t } = usePreferences();
   const navigate = useNavigate();
+  const location = useLocation();
+  const isHome = propIsHome !== undefined ? propIsHome : location.pathname === '/';
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [userDropdownOpen, setUserDropdownOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 30);
+    };
+    handleScroll();
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   const handleLogout = () => {
     logout();
@@ -31,15 +43,23 @@ export const Navbar = () => {
     navigate('/');
   };
 
+  const isFloating = isHome && !isScrolled;
+
   const navLinkClass = ({ isActive }) =>
     `text-xs font-semibold px-3 py-2 rounded-lg transition-colors ${
       isActive
-        ? 'text-empoway-terracotta bg-empoway-cream dark:bg-[#2b1e18] font-bold'
-        : 'text-empoway-coffee dark:text-empoway-ivory hover:text-empoway-terracotta hover:bg-empoway-cream/50 dark:hover:bg-[#2b1e18]/60'
+        ? 'text-empoway-terracotta bg-empoway-cream dark:bg-[#2b1e18] font-bold shadow-2xs'
+        : 'text-empoway-coffee dark:text-empoway-ivory hover:text-empoway-terracotta hover:bg-empoway-cream/60 dark:hover:bg-[#2b1e18]/60'
     }`;
 
   return (
-    <header className="sticky top-0 z-40 bg-white/95 dark:bg-[#18110e]/95 backdrop-blur-md border-b border-empoway-blush/80 dark:border-[#3d2c24] transition-colors">
+    <header
+      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 ${
+        isFloating
+          ? 'bg-white/85 dark:bg-[#18110e]/85 backdrop-blur-md border-b border-white/30 shadow-xs'
+          : 'bg-white/95 dark:bg-[#18110e]/95 backdrop-blur-md border-b border-empoway-blush/80 dark:border-[#3d2c24] shadow-soft'
+      }`}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo Brand with authentic EMPOWAY icon */}

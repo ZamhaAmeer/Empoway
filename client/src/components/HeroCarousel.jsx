@@ -150,7 +150,7 @@ export const HeroCarousel = () => {
 
   return (
     <section
-      className="relative w-full h-[84vh] min-h-[620px] max-h-[920px] overflow-hidden bg-empoway-coffee select-none"
+      className="relative w-full h-[88vh] min-h-[660px] max-h-[960px] overflow-hidden bg-empoway-coffee select-none"
       aria-roledescription="carousel"
       aria-label="EMPOWAY Featured Accessibility Journeys"
       onKeyDown={handleKeyDown}
@@ -191,8 +191,8 @@ export const HeroCarousel = () => {
         );
       })}
 
-      {/* TOP STATUS BADGES (Aligned within container) */}
-      <div className="absolute top-6 left-0 right-0 z-20 pointer-events-none">
+      {/* TOP STATUS BADGES (Aligned within container below floating navbar) */}
+      <div className="absolute top-20 sm:top-24 left-0 right-0 z-20 pointer-events-none">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Live Dedicated Colombo City Badge */}
           <div className="pointer-events-auto inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/95 backdrop-blur-md border border-empoway-blush/80 shadow-card text-xs font-bold text-empoway-coffee">
